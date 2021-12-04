@@ -1,0 +1,16 @@
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\bin\Debug\Fakarny.exe.config
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\bin\Debug\Fakarny.exe
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\bin\Debug\Fakarny.pdb
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.Form1.resources
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.Properties.Resources.resources
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.sign_up.resources
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.csproj.GenerateResource.cache
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.csproj.CoreCompileInputs.cache
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.exe
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.pdb
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.home.resources
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.csproj.CopyComplete
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.home_cont.resources
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.add_cont.resources
+C:\Users\DoDa\VB\vip\Fakarny\Fakarny\obj\Debug\Fakarny.csproj.AssemblyReference.cache
